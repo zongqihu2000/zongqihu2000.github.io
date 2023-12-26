@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zongqi Hu"
-  avatar           : "basketball.png"
+  avatar           : "basketball.jpg"
   bio              : "currently a master student"
   location         : "Hong Kong"
   employer         :
@@ -99,7 +99,7 @@ author:
   github           : "zongqihu2000"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "zongqi_hu"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
