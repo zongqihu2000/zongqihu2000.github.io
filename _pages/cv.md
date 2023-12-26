@@ -19,21 +19,18 @@ Project experience
 ======
 * 2022.09 - 2023.08: Complete individually
   * Design a Neural Network to Substitute Quadruped Robots' Kinematic System
-  * Duties included: Use Multi-Layer Perceptron (MLP) and Long-Short Term Memory (LSTM) to replace the
-  *                  kenematic system of legged robots and the results show that the deep learning
-  *                  method could substitute that very well when the robot stands still and walks.
+  * Duties included: Use Multi-Layer Perceptron (MLP) and Long-Short Term Memory (LSTM) to replace the kenematic system of legged robots     and the results show that the deep learning method could substitute that very well when the robot stands still and walks.
            
   
 * 2023.03 - 2023.05: Leader
   * Short-term Hightway Tranffic Flow Prediction Model Considering Weather and Spatial-temporal Characteristics
-  * Duties included: Compare the prediction performance of GCN+LSTM, ARIMA, and XGBoost;
-  *                  See the prediction performance of GCN+LSTM model for 5min, 10min, 15min, and 20min.
+  * Duties included: Compare the prediction performance of GCN+LSTM, ARIMA, and XGBoost; See the prediction performance of GCN+LSTM model    for 5min, 10min, 15min, and 20min.
 
 
 * 2021.08 - 2022.05: Team member
   * A Space Capture Strategy Based on Model Predictive Control
-  * Duties included: Enable three agents in the space to capture the static target according to the
-  *                  designated way through several rounds' training.
+  * Duties included: Enable three agents in the space to capture the static target according to the designated way through several rounds' 
+  training.
 
 
 Internship experience
