@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* Title: Design a Neural Network to Substitue Quadruped Robots' Kinematic System
+* date: 2023-07-31.
 
-{% include base_path %}
+* Title: Short-term Hightway Traffic Flow Prediction Model Considering Weather and Spatial-temporal Characteristics
+* date: 2023-04-31.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Title: A Space Capture Strategy Based on Model Predictive Control and Reinforcement Learning
+* date: 2022-05-08.
