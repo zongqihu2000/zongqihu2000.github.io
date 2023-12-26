@@ -59,5 +59,5 @@ Awards
 * 2020.12: Second Prize of the 12th National Mathematics Competition for College Students
 * 2020.11: Second Prize of the 15th University Physics Competition of ECUST
 * 2020.06: First Prize of The National MathematicsCompetence Challenge for College Students
-* 2020.01: Ranks N0.1 in the Pysics Competition held by Engineering Department (more than 360 students participate in)
+* 2020.01: Ranks No.1 in the Pysics Competition held by Engineering Department (more than 360 students participate in)
 * 2019.11: Third Prize of the 11th National Mathematics Competition for College Students
